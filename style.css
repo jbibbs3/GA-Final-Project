@@ -1,0 +1,36 @@
+
+/*
+When user clicks on portfolio link from the homepage
+a new page will openn that will show parallax scrolling of various artwork and category descriptions
+The bio will display artist background
+*/
+
+body {
+background: url(../images/background2.jpg) no-repeat center center fixed;
+
+}
+
+.head{
+  background-color: black;
+  float:left;
+  width: 200px;
+  height: 643px;
+  opacity: 0.8;
+}
+
+.head li{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 17px;
+  padding-left:12px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.icons{
+  margin-top: 250px;
+  padding-left: 12px;
+}
