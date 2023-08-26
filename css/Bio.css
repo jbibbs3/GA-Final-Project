@@ -1,0 +1,82 @@
+
+
+body {
+    background-color: black;
+    ;no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: #62e65f;
+    text-align: center;
+  }
+
+  .headline {
+    padding-left:679px;
+  }
+
+h2{
+    font-family: 'Press Start 2P', cursive;
+    color: #fbfd00;
+}
+
+h3{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+}
+
+h4{
+  font-family: 'Press Start 2P', cursive;
+  color: #ee8d60;
+  text-align: center;
+  font-size: 20px;
+  padding-right: 190px;
+}
+
+p{
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  float: right;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-left: 270px;
+}
+.Jesse {
+  float: right;
+  padding-right: 110px;
+
+}
+
+.Jesse img {
+  padding-left: 709px;
+}
+
+.Jesse h1 {
+  float: right;
+  padding-right: 230px;
+  padding-left: 50px;
+}
+
+.Jesse h3 {
+  float: right;
+  padding-right: 198px;
+}
+
+.mac h1{
+text-align: left;
+padding-left: 30px;
+}
+
+.mac h2{
+  padding-left: 70px;
+  padding-bottom: 20px
+  margin-top:5px;
+}
+
+.mac h3{
+  padding-left: 160px;
+}
